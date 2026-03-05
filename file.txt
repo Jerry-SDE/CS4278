@@ -1,0 +1,6 @@
+Partner 1
+email: james.d.wolverson@vanderbilt.edu
+contributions: set up repo
+
+Partner 2
+email:
